@@ -36,10 +36,16 @@ Main.java               # Classe principal para iniciar o programa
 
 ## Executando o projeto
 
+- Acesse: https://dev.mysql.com/downloads/connector/j/
+
+Clique em "Download" > Platform Independent > baixe o .zip
+
+Extraia e procure o arquivo: mysql-connector-j-8.0.xx.jar
+
 - Adicione o .jar presente no arquivo como librarie
-  1: vá em File e depois em Project Structure
-  2: na esquerda em librarie clique no +
-  3: adicione o mysql-connector-j-x.x.x e clique em ok e depois em aplicar
+- 1: vá em File e depois em Project Structure
+- 2: na esquerda em librarie clique no +
+- 3: adicione o mysql-connector-j-x.x.x e clique em ok e depois em aplicar
 - Compile os arquivos `.java` dentro da pasta `src`.
 - Execute a classe `Main`.
 - A interface permite adicionar, listar e remover funcionários.
